@@ -49,10 +49,10 @@ I'm Anirudh Pratap Singh Chauhan, a Frontend Developer based in Delhi, IN. I'm p
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anirudhchauhan2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anirudhchauhan04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhchauhan2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhchauhan04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
